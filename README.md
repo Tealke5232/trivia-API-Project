@@ -1,4 +1,12 @@
+
+
+
+
+
 # Full Stack API Final Project
+
+Bellow you will find the beginning of the project ruberic for this API project
+
 
 ## Full Stack Trivia
 
