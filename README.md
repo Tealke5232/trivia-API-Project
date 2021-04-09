@@ -1,6 +1,8 @@
 # Full Stack API Final Project
 
-Bellow you will find the beginning of the project ruberic for this API project
+Bellow you will find the beginning of the project ruberic for this API project.
+For this Project I developed the middle-wear which is used as an API handler allowing the Front end to make AP requests to the database.
+[`./__init__/`](./backend/flasker/__innit__.py)
 
 
 ## Full Stack Trivia
