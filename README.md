@@ -2,7 +2,7 @@
 
 Bellow you will find the beginning of the project ruberic for this API project.
 For this Project I developed the middle-wear which is used as an API handler allowing the Front end to make AP requests to the database.
-[`./__init__/`](./backend/flasker/__innit__.py)
+[`./__init__/`](./backend/flaskr/__init__.py)
 
 
 ## Full Stack Trivia
